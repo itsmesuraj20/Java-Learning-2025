@@ -4,6 +4,10 @@ public class ScannerClass{
         Scanner sc = new Scanner(System.in);
 
         int n , a , b, sum = 0 ;
+        
+        n =sc.nextInt() 
+        a =sc.nextInt() 
+        b =sc.nextInt();
         for (int i = 0; i < n; i++) {
             sum = sum + (Math.max(a, b));
         }
