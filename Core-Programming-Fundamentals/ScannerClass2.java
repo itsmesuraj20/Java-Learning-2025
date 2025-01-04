@@ -6,7 +6,9 @@ public class ScannerClass2{
         int arr[] = {1,2,3,4,5};
         int n = sc.nextInt();
         for (int i = 0; i < n; i++) {
-            
+            sum = sum + arr[i];
         }
+
+        System.out.println("Sum of the array : " + sum);
     }
 }
