@@ -36,6 +36,9 @@ Java continues to be the backbone of scalable systems. Here's why learning Java 
 
 ## Roadmap 🛣️
 
+### Phase 0:Most Essential
+- Learn DSA.
+
 ### Phase 1: Core Java Fundamentals
 - Learn the basics: **Variables, Data Types, Control Flow, and Functions**.
 - Master Object-Oriented Programming: **Classes, Inheritance, Polymorphism, and Abstraction**.
