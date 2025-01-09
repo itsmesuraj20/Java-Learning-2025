@@ -1,3 +1,5 @@
+package DSA.DynamicProgramming;
+
 import java.util.*;
 public class DP1
 {

@@ -1,4 +1,4 @@
-package DSA.Dynamic Programming;
+package DSA.DynamicProgramming;
 
 public class DP2 {
     public static void main(String[] args) {
