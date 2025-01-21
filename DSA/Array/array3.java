@@ -1,6 +1,6 @@
 package DSA.Array;
 
-public class array2 {
+public class array3 {
     public static void main(String[] args) {
         System.out.println("Array");
     }
