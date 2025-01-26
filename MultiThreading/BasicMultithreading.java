@@ -1,4 +1,4 @@
-package Multithreading;
+package MultiThreading;
 
 class MyThread extends Thread {
     public void run() {
