@@ -1,4 +1,4 @@
-
+                          ॐ नमः शिवाय
 # Learning Java 2025 🌟
 Welcome to the **Learning Java 2025** repository! This repo serves as a comprehensive guide and roadmap for mastering Java with the latest tools, frameworks, and technologies. Whether you're a beginner or an experienced developer, this roadmap will equip you with the skills needed to excel in modern Java development.
 
@@ -117,3 +117,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ### Happy Learning! 🎉
+
+ॐ नमः शिवाय
