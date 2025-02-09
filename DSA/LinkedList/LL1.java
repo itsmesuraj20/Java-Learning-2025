@@ -18,6 +18,7 @@ public class LL1 {
         System.out.println("LinkedList Elements:");
         for (int element : list) {
             System.out.println(element);
+            
         }
     }
 }
