@@ -11,7 +11,6 @@ class MyThread extends Thread {
         }
     }
 }
-
 public class multithreading {
     public static void main(String[] args) {
         MyThread t1 = new MyThread();
